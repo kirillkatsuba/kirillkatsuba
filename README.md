@@ -1,12 +1,15 @@
 # Kirill Katsuba
-**Machine learning**  
+**Machine learning and mathematics**  
 📍 Moscow, Russia  
 📱 +7 962 250 08 60 | ✉️ [Telegram](https://t.me/kirillkatsuba)
 
 ---
 
 ## 🔍 Profile
-Applied Mathematics graduate specializing in ML/DL with industry experience in antifraud analytics and physics-informed AI research. Proven ability to deliver end-to-end projects from numerical analysis to production-ready solutions.
+Hi there! I am highly motivated and well-trained reasercher and machine learning specialist. Most of time I been working with physics-informed neural networks (PINN) and making some publications in the sphere. Now I am deep dive into NLP and CV and develop project which combine this tecniques. Besides ML and DL I have strong base in mathematics, the most intetesting fields of math for me are calculus, linear algebra, functional analysis, differential equations, probalitiy theory and statistics.
+Also I am endeavor to try myself in Audio processing and continue to develop my skills in CV, NLP and PINN. 
+I am ready to solve complicated problems and projects! 
+
 
 ---
 
