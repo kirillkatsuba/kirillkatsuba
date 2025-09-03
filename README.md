@@ -13,7 +13,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 ## 🎓 Education
 **joint programm Skoltech & Higher School of Economics**  
 *Masters in Computer Science and Mathematics*  
-`Sep 2025 - Current Date` | Moscow  
+`Sep 2025 - Present` | Moscow  
 
 **Higher School of Economics**  
 *Bachelor in Applied Mathematics*  
@@ -30,17 +30,18 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 ---
 
 ## 💼 Work Experience
-**Junior Data Analyst** @ Sber
-`May 2024 - Mar 2025` | Moscow  
-- Developed fraud detection triggers for mortgage/auto loans
-- Built ML models (Decision Trees, Linear Regression) for debt-fraud correlation analysis
-- Processed big data using Spark/Hadoop/Greenplum for production model validation
 
 **ML Researcher** @ HSE LAMBDA Laboratory  
 `Apr 2025 - Present` | Moscow  
 - Developing physics-informed transformers for pollution assessment
 - Solving inverse problems for pollution source identification
 - Develop project to build DL algorithms for physics table data
+
+**Junior Data Analyst** @ Sber
+`May 2024 - Mar 2025` | Moscow  
+- Developed fraud detection triggers for mortgage/auto loans
+- Built ML models (Decision Trees, Linear Regression) for debt-fraud correlation analysis
+- Processed big data using Spark/Hadoop/Greenplum for production model validation
 
 **Curriculum Assistant** @ Higher School of Economics  
 `Sep 2024 - Jan 2025` | Moscow  
