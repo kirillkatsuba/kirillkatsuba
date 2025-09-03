@@ -11,7 +11,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 ---
 
 ## 🎓 Education
-**Skoltech & Higher School of Economics**
+**joint programm Skoltech & Higher School of Economics** 
 *Masters in Computer Science and Mathematics*  
 `Sep 2025 - Current Date` | Moscow  
 
