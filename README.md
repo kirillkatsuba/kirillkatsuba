@@ -1,19 +1,20 @@
 # Kirill Katsuba
-**Machine learning and mathematics**  
+**Deep Learning and mathematics**  
 📍 Moscow, Russia  
 📱 +7 962 250 08 60 | ✉️ [Telegram](https://t.me/kirillkatsuba)
 
 ---
 
 ## 🔍 Profile
-Hi there! I am highly motivated and well-trained reasercher and machine learning specialist. Most of time I been working with physics-informed neural networks (PINN) and making some publications in the sphere. Now I am deep dive into NLP and CV and develop project which combine this tecniques. Besides ML and DL I have strong base in mathematics, the most intetesting fields of math for me are calculus, linear algebra, functional analysis, differential equations, probalitiy theory and statistics.
-Also I am endeavor to try myself in Audio processing and continue to develop my skills in CV, NLP and PINN. 
-I am ready to solve complicated problems and projects! 
-
+Hi there! I am highly motivated and well-trained reasercher and machine learning specialist. Most of time I been working with physics-informed neural networks (PINN) and making some publications in the sphere. Now I am deep dive into NLP and CV and developing project which combine this tecniques. 
 
 ---
 
 ## 🎓 Education
+**Skoltech & Higher School of Economics**  
+*Masters in Computer Science and Mathematics*  
+`Sep 2025 - Current Date` | Moscow  
+
 **Higher School of Economics**  
 *Bachelor in Applied Mathematics*  
 `Sep 2021 - Jun 2025` | Moscow  
@@ -21,7 +22,7 @@ I am ready to solve complicated problems and projects!
 - 80% excellent marks
 
 **Avito Analytics Academy**  
-*ML/Data Science Engineer Certificate*  
+*ML/Data Science Engineer*  
 `Sep 2024 - Jun 2025` | Moscow  
 - GPA: 5/5 
 - Top 5 rankings in ML/DL courses
@@ -29,7 +30,7 @@ I am ready to solve complicated problems and projects!
 ---
 
 ## 💼 Work Experience
-**Junior Data Analyst** @ PJSC Sberbank  
+**Junior Data Analyst** @ Sber
 `May 2024 - Mar 2025` | Moscow  
 - Developed fraud detection triggers for mortgage/auto loans
 - Built ML models (Decision Trees, Linear Regression) for debt-fraud correlation analysis
@@ -37,8 +38,9 @@ I am ready to solve complicated problems and projects!
 
 **ML Researcher** @ HSE LAMBDA Laboratory  
 `Apr 2025 - Present` | Moscow  
-- Developing physics-informed transformers for CityAir pollution assessment
+- Developing physics-informed transformers for pollution assessment
 - Solving inverse problems for pollution source identification
+- Develop project to build DL algorithms for physics table data
 
 **Curriculum Assistant** @ Higher School of Economics  
 `Sep 2024 - Jan 2025` | Moscow  
@@ -63,10 +65,6 @@ I am ready to solve complicated problems and projects!
 `Mar 2025 - Jun 2025` | [CV, Transformers, NLP]  
 - Built item detection/segmentation system with price prediction
 - Developed iOS app + web interface for image processing
-
-**Lotka University Project**  
-`Jan 2023 - Jun 2023` | [Python, Numerical Analysis]  
-- Analyzed author/article datasets and function approximation
 
 ---
 
