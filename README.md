@@ -1,7 +1,7 @@
 # Kirill Katsuba
 **Deep Learning and mathematics**  
 📍 Moscow, Russia  
-📱 +7 962 250 08 60 | ✉️ [Telegram](https://t.me/kirillkatsuba)
+✉️ [Telegram](https://t.me/kirillkatsuba)
 
 ---
 
