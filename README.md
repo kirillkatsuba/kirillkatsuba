@@ -2,6 +2,7 @@
 **Deep Learning and mathematics**  
 📍 Moscow, Russia  
 ✉️ [Telegram](https://t.me/kirillkatsuba)
+💻 [Linkedin](https://www.linkedin.com/in/kirill-katsuba-40838030b/)
 
 ---
 
@@ -11,7 +12,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 ---
 
 ## 🎓 Education
-**joint programm Skoltech & Higher School of Economics**  
+**Skoltech & Higher School of Economics**  
 *Masters in Computer Science and Mathematics*  
 `Sep 2025 - Present` | Moscow  
 
