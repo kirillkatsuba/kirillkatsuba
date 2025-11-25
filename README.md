@@ -1,17 +1,17 @@
 # Kirill Katsuba
 **Deep Learning and mathematics**  
-📍 Moscow, Russia  
-✉️ [Telegram](https://t.me/kirillkatsuba)
-💻 [Linkedin](https://www.linkedin.com/in/kirill-katsuba-40838030b/)
+Moscow, Russia  
+[Telegram](https://t.me/kirillkatsuba)
+[Linkedin](https://www.linkedin.com/in/kirill-katsuba-40838030b/)
 
 ---
 
-## 🔍 Profile
+## Profile
 Hi there! I am highly motivated and well-trained reasercher and machine learning specialist. Most of time I been working with physics-informed neural networks (PINN) and making some publications in the sphere. Now I am deep dive into NLP and CV and developing project which combine this tecniques. 
 
 ---
 
-## 🎓 Education
+## Education
 **Skoltech & Higher School of Economics**  
 *Masters in Computer Science and Mathematics*  
 `Sep 2025 - Present` | Moscow  
@@ -30,7 +30,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 **ML Researcher** @ HSE LAMBDA Laboratory  
 `Apr 2025 - Present` | Moscow  
@@ -50,7 +50,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 
 ---
 
-## 🚀 Projects
+## Projects
 ### Physics-Informed AI Research
 **Physics-informed Transformers for Air Pollution Assessment**  
 `Oct 2024 - Present` | [DL, PINNs, Transformers]  
@@ -70,7 +70,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 
 ---
 
-## ⚙️ Skills
+## Skills
 **Programming**  
 `Python` `C++` `SQL` `Git` `Spark` `Hadoop`
 
@@ -85,6 +85,6 @@ English (B2) • Russian (Native)
 
 ---
 
-## 📚 Coursework
+## Coursework
 - **Physics Systems in Python**: Numba-accelerated simulations (Boids, Fractals, Ferromagnetism)
 - **ML/DL Fundamentals**: Time series, CV/NLP architectures, infrastructure design
