@@ -7,7 +7,7 @@ Moscow, Russia
 ---
 
 ## Profile
-Hi there! I am highly motivated and well-trained reasercher and machine learning specialist. Most of time I been working with physics-informed neural networks (PINN) and making some publications in the sphere. Now I am deep dive into NLP and CV and developing project which combine this tecniques. 
+Hi there! I am highly motivated and well-trained reasercher and machine learning specialist. Most of time I been working diffusion modeling and physics-informed neural networks (PINN) and making some publications in the sphere. Now I am deep dive into NLP, CV and Generative modeling, especially diffusion models and developing project which combine this tecniques. 
 
 ---
 
