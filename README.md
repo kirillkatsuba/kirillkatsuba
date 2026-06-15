@@ -12,7 +12,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 ---
 
 ## Education
-**Skoltech & Higher School of Economics**  
+**Higher School of Economics**  
 *Masters in Computer Science and Mathematics*  
 `Sep 2025 - Present` | Moscow  
 
@@ -42,7 +42,7 @@ Hi there! I am highly motivated and well-trained reasercher and machine learning
 - Solving inverse problems for pollution source identification
 - Develop project to build DL algorithms for physics table data
 
-**Junior Data Analyst** @ Sber
+**Junior Data Analyst** @ Bank
 `May 2024 - Mar 2025` | Moscow  
 - Developed fraud detection triggers for mortgage/auto loans
 - Built ML models (Decision Trees, Linear Regression) for debt-fraud correlation analysis
